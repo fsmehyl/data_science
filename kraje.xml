@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <kód>1</kód>
+    <kraj>Bratislavský</kraj>
+    <ISO_3166-2>SK-BL</ISO_3166-2>
+    <obyvateľov>736 385</obyvateľov>
+    <rozloha_km2>2 052,6</rozloha_km2>
+    <hustota_obyv_ob_km2>359</hustota_obyv_ob_km2>
+    <miest_a_obci>73</miest_a_obci>
+    <miest>7</miest>
+    <okresov>8</okresov>
+    <okresy>Bratislava I, Bratislava II, Bratislava III, Bratislava IV, Bratislava V, Malacky, Pezinok, Senec</okresy>
+  </row>
+  <row>
+    <kód>2</kód>
+    <kraj>Trnavský</kraj>
+    <ISO_3166-2>SK-TA</ISO_3166-2>
+    <obyvateľov>565 900</obyvateľov>
+    <rozloha_km2>4 146,3</rozloha_km2>
+    <hustota_obyv_ob_km2>136</hustota_obyv_ob_km2>
+    <miest_a_obci>251</miest_a_obci>
+    <miest>17</miest>
+    <okresov>7</okresov>
+    <okresy>Dunajská Streda, Galanta, Hlohovec, Piešťany, Senica, Skalica, Trnava</okresy>
+  </row>
+  <row>
+    <kód>3</kód>
+    <kraj>Trenčiansky</kraj>
+    <ISO_3166-2>SK-TC</ISO_3166-2>
+    <obyvateľov>565 572</obyvateľov>
+    <rozloha_km2>4 501,8</rozloha_km2>
+    <hustota_obyv_ob_km2>126</hustota_obyv_ob_km2>
+    <miest_a_obci>276</miest_a_obci>
+    <miest>18</miest>
+    <okresov>9</okresov>
+    <okresy>Bánovce nad Bebravou, Ilava, Myjava, Nové Mesto nad Váhom, Partizánske, Považská Bystrica, Prievidza, Púchov, Trenčín</okresy>
+  </row>
+  <row>
+    <kód>4</kód>
+    <kraj>Nitriansky</kraj>
+    <ISO_3166-2>SK-NI</ISO_3166-2>
+    <obyvateľov>665 600</obyvateľov>
+    <rozloha_km2>6 343,7</rozloha_km2>
+    <hustota_obyv_ob_km2>105</hustota_obyv_ob_km2>
+    <miest_a_obci>354</miest_a_obci>
+    <miest>16</miest>
+    <okresov>7</okresov>
+    <okresy>Komárno, Levice, Nitra, Nové Zámky, Šaľa, Topoľčany, Zlaté Moravce</okresy>
+  </row>
+  <row>
+    <kód>5</kód>
+    <kraj>Žilinský</kraj>
+    <ISO_3166-2>SK-ZI</ISO_3166-2>
+    <obyvateľov>686 063</obyvateľov>
+    <rozloha_km2>6 808,4</rozloha_km2>
+    <hustota_obyv_ob_km2>101</hustota_obyv_ob_km2>
+    <miest_a_obci>315</miest_a_obci>
+    <miest>19</miest>
+    <okresov>11</okresov>
+    <okresy>Bytča, Čadca, Dolný Kubín, Kysucké Nové Mesto, Liptovský Mikuláš, Martin, Námestovo, Ružomberok, Turčianske Teplice, Tvrdošín, Žilina</okresy>
+  </row>
+  <row>
+    <kód>6</kód>
+    <kraj>Banskobystrický</kraj>
+    <ISO_3166-2>SK-BC</ISO_3166-2>
+    <obyvateľov>611 124</obyvateľov>
+    <rozloha_km2>9 454,0</rozloha_km2>
+    <hustota_obyv_ob_km2>65</hustota_obyv_ob_km2>
+    <miest_a_obci>516</miest_a_obci>
+    <miest>24</miest>
+    <okresov>13</okresov>
+    <okresy>Banská Bystrica, Banská Štiavnica, Brezno, Detva, Krupina, Lučenec, Poltár, Revúca, Rimavská Sobota, Veľký Krtíš, Zvolen, Žarnovica, Žiar nad Hronom</okresy>
+  </row>
+  <row>
+    <kód>7</kód>
+    <kraj>Prešovský</kraj>
+    <ISO_3166-2>SK-PV</ISO_3166-2>
+    <obyvateľov>810 008</obyvateľov>
+    <rozloha_km2>8 972,8</rozloha_km2>
+    <hustota_obyv_ob_km2>90</hustota_obyv_ob_km2>
+    <miest_a_obci>665</miest_a_obci>
+    <miest>23</miest>
+    <okresov>13</okresov>
+    <okresy>Bardejov, Humenné, Kežmarok, Levoča, Medzilaborce, Poprad, Prešov, Sabinov, Snina, Stará Ľubovňa, Stropkov, Svidník, Vranov nad Topľou</okresy>
+  </row>
+  <row>
+    <kód>8</kód>
+    <kraj>Košický</kraj>
+    <ISO_3166-2>SK-KI</ISO_3166-2>
+    <obyvateľov>778 799</obyvateľov>
+    <rozloha_km2>6 754,3</rozloha_km2>
+    <hustota_obyv_ob_km2>115</hustota_obyv_ob_km2>
+    <miest_a_obci>440</miest_a_obci>
+    <miest>17</miest>
+    <okresov>11</okresov>
+    <okresy>Gelnica, Košice I, Košice II, Košice III, Košice IV, Košice-okolie, Michalovce, Rožňava, Sobrance, Spišská Nová Ves, Trebišov</okresy>
+  </row>
+  <row>
+    <kód>Celkovo:</kód>
+    <kraj>Celkovo:</kraj>
+    <ISO_3166-2>Celkovo:</ISO_3166-2>
+    <obyvateľov>5 419 451</obyvateľov>
+    <rozloha_km2>49 034</rozloha_km2>
+    <hustota_obyv_ob_km2>111</hustota_obyv_ob_km2>
+    <miest_a_obci>2 890</miest_a_obci>
+    <miest>141</miest>
+    <okresov>79</okresov>
+    <okresy/>
+  </row>
+</data>

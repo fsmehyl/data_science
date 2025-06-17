@@ -1,0 +1,10 @@
+kód,kraj,ISO_3166-2,obyvateľov,rozloha_[km/2],hustota_obyv.[ob./km/2],miest a obcí,miest,okresov,okresy
+1,Bratislavský,SK-BL,736 385,"2 052,6",359,73,7,8,"Bratislava I, Bratislava II, Bratislava III, Bratislava IV, Bratislava V, Malacky, Pezinok, Senec"
+2,Trnavský,SK-TA,565 900,"4 146,3",136,251,17,7,"Dunajská Streda, Galanta, Hlohovec, Piešťany, Senica, Skalica, Trnava"
+3,Trenčiansky,SK-TC,565 572,"4 501,8",126,276,18,9,"Bánovce nad Bebravou, Ilava, Myjava, Nové Mesto nad Váhom, Partizánske, Považská Bystrica, Prievidza, Púchov, Trenčín"
+4,Nitriansky,SK-NI,665 600,"6 343,7",105,354,16,7,"Komárno, Levice, Nitra, Nové Zámky, Šaľa, Topoľčany, Zlaté Moravce"
+5,Žilinský,SK-ZI,686 063,"6 808,4",101,315,19,11,"Bytča, Čadca, Dolný Kubín, Kysucké Nové Mesto, Liptovský Mikuláš, Martin, Námestovo, Ružomberok, Turčianske Teplice, Tvrdošín, Žilina"
+6,Banskobystrický,SK-BC,611 124,"9 454,0",65,516,24,13,"Banská Bystrica, Banská Štiavnica, Brezno, Detva, Krupina, Lučenec, Poltár, Revúca, Rimavská Sobota, Veľký Krtíš, Zvolen, Žarnovica, Žiar nad Hronom"
+7,Prešovský,SK-PV,810 008,"8 972,8",90,665,23,13,"Bardejov, Humenné, Kežmarok, Levoča, Medzilaborce, Poprad, Prešov, Sabinov, Snina, Stará Ľubovňa, Stropkov, Svidník, Vranov nad Topľou"
+8,Košický,SK-KI,778 799,"6 754,3",115,440,17,11,"Gelnica, Košice I, Košice II, Košice III, Košice IV, Košice-okolie, Michalovce, Rožňava, Sobrance, Spišská Nová Ves, Trebišov"
+Celkovo:,Celkovo:,Celkovo:,5 419 451,49 034,111,2 890,141,79,
