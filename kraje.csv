@@ -1,4 +1,4 @@
-kód,kraj,ISO_3166-2,obyvateľov,rozloha_[km/2],hustota_obyv.[ob./km/2],miest a obcí,miest,okresov,okresy
+kód,kraj,ISO_3166-2,obyvateľov,rozloha [km²],hustota obyv. [ob./km²],miest a obcí,miest,okresov,okresy
 1,Bratislavský,SK-BL,736 385,"2 052,6",359,73,7,8,"Bratislava I, Bratislava II, Bratislava III, Bratislava IV, Bratislava V, Malacky, Pezinok, Senec"
 2,Trnavský,SK-TA,565 900,"4 146,3",136,251,17,7,"Dunajská Streda, Galanta, Hlohovec, Piešťany, Senica, Skalica, Trnava"
 3,Trenčiansky,SK-TC,565 572,"4 501,8",126,276,18,9,"Bánovce nad Bebravou, Ilava, Myjava, Nové Mesto nad Váhom, Partizánske, Považská Bystrica, Prievidza, Púchov, Trenčín"
